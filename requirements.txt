@@ -1,0 +1,13 @@
+# Dependencias mínimas para iniciar una cámara Thorlabs y guardar un TIFF
+# Python 3.11 o superior (64 bits)
+
+numpy==2.4.2
+tifffile==2026.2.16
+
+# Fase 1: verificar la GPU (requiere GPU NVIDIA y driver con CUDA 12)
+cupy-cuda12x==14.0.1
+
+# SDK de Thorlabs (thorlabs_tsi_sdk 1.2.0): NO está en PyPI.
+# Se instala aparte desde el paquete que viene con ThorCam / Scientific Camera Interfaces:
+#   pip install "<ruta>\Scientific Camera Interfaces\SDK\Python Toolkit\thorlabs_tsi_camera_python_sdk_package.zip"
+# Ver README.md, sección "Instalación".
