@@ -1,0 +1,1 @@
+De las grabaciones del 2 de abril y del 6 de mayo, en los tramos horarios que entregará Edward, tomar frames con blister en la colada: 20 o más, los que se encuentren. El CSV biblioteca tiene los eventos de blister del 6 de mayo. “[Biblioteca 1.xlsx](https://rs2mining-my.sharepoint.com/:x:/p/edward_guzman/IQCDoeuVLdlpT4ffk-JUcEV1AWoukPwVDFMuBBzpw4TGBlc?e=H6e7U9)”
