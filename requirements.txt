@@ -4,3 +4,7 @@
 numpy==2.4.2
 tifffile==2026.2.16
 cupy-cuda12x==14.0.1
+
+# Cámara Thorlabs: thorlabs_tsi_sdk se instala desde el zip del SDK de Thorlabs
+# ("Windows SDK and Doc. for Scientific Cameras", pestaña Programming Interfaces); no está en PyPI.
+# Cámara Basler (opcional): pypylon==26.10
