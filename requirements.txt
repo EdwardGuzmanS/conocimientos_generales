@@ -3,4 +3,5 @@
 
 numpy==2.4.2
 tifffile==2026.2.16
-cupy-cuda12x==14.0.1
+# [ctk] instala NVRTC y demás librerías CUDA vía pip (sin CUDA Toolkit del sistema)
+cupy-cuda12x[ctk]==14.0.1
